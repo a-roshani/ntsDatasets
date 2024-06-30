@@ -1,6 +1,6 @@
 # ntsDatasets <img src="man/figures/logo.png" align="right" width="25%"/>
 
-[![R-CMD-check](https://github.com/a-roshani/ntsDatasets/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/a-roshani/ntsDatasets/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/a-roshani/ntsDataSets/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/a-roshani/ntsDataSets/actions/workflows/R-CMD-check.yaml)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/ntsDatasets)](https://cran.r-project.org/package=ntsDatasets)
 [![Downloads per
 month](https://cranlogs.r-pkg.org/badges/ntsDatasets)](https://cran.r-project.org/package=ntsDatasets)
