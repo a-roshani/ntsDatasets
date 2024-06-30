@@ -2,9 +2,9 @@
 % Please edit documentation in R/debt.R
 \name{debt}
 \alias{debt}
-\title{Public debt data}
+\title{Public Debt Data}
 \format{
-A data.frame with 23 observations of public debt in Egypt in 200-2022.
+A data frame with 23 observations of public debt in Egypt from 2000 to 2022.
 }
 \source{
 Essa, N. I., Zhar, H. M., Abu El-Magd, N. A. T. (2023). Neutrosophic
@@ -12,7 +12,7 @@ Generalized Pareto Distribution, \emph{Mathematics and Statistics}, 11(5),
 827-833.
 }
 \description{
-It is related to the public debt (in million dollar) in Egypt covering the period from 2000 to 2022.
+This dataset contains information on public debt (in million dollars) in Egypt, covering the period from 2000 to 2022.
 }
 \examples{
 data("debt")
