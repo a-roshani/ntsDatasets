@@ -18,6 +18,10 @@
 #' Analysis of COVID-19 data using neutrosophic Kruskal Wallis H test, \emph{BMC
 #' Medical Research Methodology}, 21:215.
 #'
+#' Sherwani R. A. K., Shakeel, H., Saleem, M., Awan, W. B., Aslam, M., Farooq, M.
+#' (2021). A new neutrosophic sign test: An application to COVID-19 data,
+#' \emph{PLoS ONE}, 16(8): e0255671.
+#'
 #' @examples
 #' data("ICUcovidPK")
 #' ICUcovidPK
