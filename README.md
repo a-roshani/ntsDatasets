@@ -1,3 +1,9 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 # ntsDatasets <img src="man/figures/logo.png" align="right" width="25%"/>
 
 [![R-CMD-check](https://github.com/a-roshani/ntsDataSets/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/a-roshani/ntsDataSets/actions/workflows/R-CMD-check.yaml)
@@ -8,7 +14,8 @@ month](https://cranlogs.r-pkg.org/badges/ntsDatasets)](https://cran.r-project.or
 Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ntsDatasets)](https://cran.r-project.org/package=ntsDatasets)
 [![Licence](https://img.shields.io/badge/licence-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-The R package *ntsDatasets* provides a collection of datasets related to neutrosophic sets for statistical modeling and analysis.
+The R package *ntsDatasets* provides a collection of datasets related to
+neutrosophic sets for statistical modeling and analysis.
 
 This work is funded by national funds through the FCT - Fundação para a
 Ciência e a Tecnologia, I.P., under the scope of the projects
@@ -41,7 +48,8 @@ Neutrosophic Data Sets*. R package version 0.1.0,
 A BibTeX entry for LaTeX users is
 
 @Manual{ntsDatasets, title = {ntsDatasets: Neutrosophic Data Sets},
-author = {Roshani, A. and  Norouzirad, M. and Mazarei, D.}, year = {2024}, note = {R package version 0.1.0}, url =
+author = {Roshani, A. and Norouzirad, M. and Mazarei, D.}, year =
+{2024}, note = {R package version 0.1.0}, url =
 {<https://cran.r-project.org/package=ntsDatasets>} }
 
 ## License
