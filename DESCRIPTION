@@ -10,11 +10,11 @@ Authors@R: c(
     )
 Maintainer: Amin Roshani <roshani.amin@gmail.com>
 Description: Provides a collection of datasets related to neutrosophic sets for statistical modeling and analysis. 
-License: GPL (>= 2)
-License_file: LICENSE
+License: GPL-3
+URL: https://github.com/a-roshani/ntsDatasets
 Encoding: UTF-8
-LazyData: true
+LazyData: false
 Depends: 
-    R (>= 2.10)
-RoxygenNote: 7.3.1
+    R (>= 3.5)
+RoxygenNote: 7.3.2
 
