@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # ntsDatasets <img src="man/figures/logo.png" align="right" width="25%"/>
 
 [![R-CMD-check](https://github.com/a-roshani/ntsDataSets/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/a-roshani/ntsDataSets/actions/workflows/R-CMD-check.yaml)
