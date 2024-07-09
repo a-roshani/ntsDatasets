@@ -3,7 +3,7 @@
 #' It is related to failure times of the cooling system used in an airplane.
 #'
 #'
-#' @name remission
+#' @name failure
 #'
 #' @format
 #' A data.frame with 30 observations of failure time data on the air conditioning system
