@@ -43,7 +43,7 @@ A BibTeX entry for LaTeX users is
 
 @Manual{ntsDatasets, title = {ntsDatasets: Neutrosophic Data Sets},
 author = {Roshani, A. and Norouzirad, M. and Mazarei, D.}, year =
-{2024}, note = {R package version 0.1.0}, url =
+{2024}, note = {R package version 0.2.0}, url =
 {<https://cran.r-project.org/package=ntsDatasets>} }
 
 ## License

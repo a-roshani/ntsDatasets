@@ -1,7 +1,7 @@
 Package: ntsDatasets
 Type: Package
 Title: Neutrosophic Data Sets
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person("Amin", "Roshani", email = "roshani.amin@gmail.com", role =  c("aut", "cre"), comment = c(ORCID = "0000-0002-3329-5330")),
     person("Mina", "Norouzirad", email = "mina.norouzirad@gmail.com", role = c("aut"), comment = c(ORCID = "0000-0003-0311-6888")),
